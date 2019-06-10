@@ -1,28 +1,28 @@
 # Site settings
 title: Pointing to the Moon
-description: Blog of Yingkai Liu
+description: Blog of  Yin Huang
 baseurl: "" 
-url: "https://yk-liu.github.io" 
+url: "https://a1iez.github.io/yinhuang.github.com/" 
 
 # GitHub User settings
-username: Yingkai Liu
-github_username: yk-liu
+username: Yin Huang
+github_username: A1iez
 user_description: A Physics undergrad with a broad interest
 user_title: Physics Undergraduate
-email: yingkai.liu@outlook.com
+email: huang_yin@student.smc.edu
 
 # Blog Author settings
 author:
-  name:           Yingkai Liu
+  name:           Yin Huang
   picture:        
-  email:          yingkai.liu@outlook.com
+  email:         huang_yin@student.smc.edu
   description:    I'm a Physics undergrad with a broad interest.
   twitter:
   facebook:
-  github:         https://github.com/yk-liu
+  github:         https://a1iez.github.io
   linkedin:
   # # If you're forking this site, make sure you delete this entry!
-  clustrmap:      MlqUzlcZFdHetSQuxml5oHyt9RwVjZrsGbvyaRpMwgU 
+  clustrmap:      
   # If you're forking this site, make sure you delete this entry!
 
 
