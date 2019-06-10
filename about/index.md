@@ -2,7 +2,7 @@
 title: About
 layout: info
 toc: false
-edit: 2019-05-15
+edit: 2019-6-7
 commentable: false
 protected: true
 mathjax: true
@@ -10,15 +10,10 @@ mathjax: true
 
 # Me
 
-My name is Yingkai Liu ([Google Scholar](https://scholar.google.co.kr/citations?user=NIySL50AAAAJ&hl=en)). I am currently a senior undergraduate at Nankai University, China. I major in Physics. 
+My name is Yin Huang.I'm a undergraduate at Santa Monica College. I major is Physics. 
 
 With more understanding of physics, I found the theory used to describe a phenomenon is more and more elegant but in the same time complicated. I was happy about the differential equations, impressed by linear algebra, struck by group theory and now mesmerized by topology and differential geometry. **I am aware that physics requires much more than *just* mathematics. In the same time I believe that with more mathematics there will be deeper physics.** 
 
-As for my current interest, on my CV I wrote:
-
-> I am interested in the Topological properties of materials and the phenomenon of integer discreetness arising from continuous symmetry. In a different perspective, I am also interested in how particles subject to relatively simple laws can exhibit novel collective properties. I also like coding and enjoy sharing my thoughts.
-
-Here is my [CV](https://yk-liu.github.io/about/CV-of-Liu-Yingkai.pdf) (last update: 2018-11-17).
 
 # This Site
 
@@ -42,7 +37,7 @@ The posts are at different status.
 
 # Sources
 
-This website (source code [here](https://github.com/yk-liu/yk-liu.github.io)) uses these sources:
+This website (source code [here](https://a1iez.github.io/yinhuang.github.com/)) uses these sources:
 
 | Module                                                       | Mainly used in                                  | License/ TOS                                                 |
 | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ |
@@ -59,8 +54,6 @@ This website (source code [here](https://github.com/yk-liu/yk-liu.github.io)) us
 | [comment](https://commentit.io)                              | Post                                            | [APGL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)       |
 | [404 T-rex game](https://github.com/wayou/t-rex-runner)      | 404 page                                        | from [Chromium source code](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package), [license](https://chromium.googlesource.com/chromium/src.git/+/master/LICENSE) |
 | [Encryption](https://github.com/robinmoisson/staticrypt)     | Secret Pages                                    | [MIT](http://opensource.org/licenses/MIT)                    |
-
-Additional licensing information can be found [here](https://github.com/yk-liu/yk-liu.github.io/blob/master/LICENSE.md).
 
 I mainly use [Typora](https://www.typora.io) to write my post.
 
@@ -80,4 +73,4 @@ Which has been beautifully put by Bruce Lee:
 
 # Contact
 
-The best way to reach me is via email: $water$ _@_ $mail.nankai.edu.cn$
+The best way to reach me is via email: $huang_yin$ _@_ $student.smc.edu$
