@@ -1,6 +1,6 @@
 All parts of the code and contents, unless otherwise stated or in violation with the original license, are under BSD 4-Clause License.
 
-Copyright (c) 2018, Yingkai Liu
+Copyright (c) 2019, Yin Huang
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -16,7 +16,7 @@ THIS SOFTWARE IS PROVIDED BY YINGKAILIU ''AS IS'' AND ANY EXPRESS OR IMPLIED WAR
 
 ---
 
-This website includes code from the following libraries/packages, used under the following license respectively. For more information, see https://yk-liu.github.io/about/
+This website includes code from the following libraries/packages, used under the following license respectively. For more information, see https://a1iez.github.io/yinhuang.github.com/about
 
 # [Particle.js](https://github.com/VincentGarreau/particles.js)
 
