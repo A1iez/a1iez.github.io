@@ -37,7 +37,7 @@ The posts are at different status.
 
 # Sources
 
-This website (source code [here](https://a1iez.github.io/)) uses these sources:
+This website (source code [here](https://github.com/A1iez/a1iez.github.io)) uses these sources:
 
 | Module                                                       | Mainly used in                                  | License/ TOS                                                 |
 | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ |
