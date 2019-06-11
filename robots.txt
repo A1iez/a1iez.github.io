@@ -3,4 +3,4 @@ Disallow: /about/
 Disallow: /secret/
 Disallow: /secret
 
-SITEMAP: https://yinhuang.github.com/sitemap.xml
+SITEMAP: https://a1iez.github.io/sitemap.xml
