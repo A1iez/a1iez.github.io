@@ -3,7 +3,7 @@
 I am a physics undergraduate at Santa Monica College. I use this website to share my understanding of many theories I learned. The most recent notes are often in progress, for I like to keep a few projects running at the same time. You are always welcomed to comment on my posts for suggestion or discussion. Some of the old notes were written in Chinese. 
 # About this website
 
-This website (source code [here](https://a1iez.github.io/yinhuang.github.com)) uses these sources:
+This website (source code [here](https://a1iez.github.io)) uses these sources:
 
 | Module                                                       | Mainly used in                                  | License/ TOS                                                 |
 | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ |
